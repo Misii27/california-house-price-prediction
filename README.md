@@ -1,7 +1,7 @@
 # California-house-price-prediction
 Linear Regression model predicting California house prices using Kaggle housing data
 ### Problem statement
-UrbanNest Properties was estimating house prices manually and that led to inconsistent valuations, low revenue and lack of trust from customers. This project builds a machine learning model that predicts median house prices, giving the business a consistent, data-backed pricing baseline.
+UrbanNest Properties was estimating house prices manually and that led to inconsistent valuations, revenue loss and lack of trust from customers. This project builds a machine learning model that predicts median house prices, giving the business a consistent, data-backed pricing baseline.
 
 **Dataset:** California Housing Dataset (Kaggle) - 20,640 records, 10 features including location, income, housing age, and ocean proximity.
 
